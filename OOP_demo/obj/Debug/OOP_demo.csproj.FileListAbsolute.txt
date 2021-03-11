@@ -1,0 +1,12 @@
+c:\users\user3\documents\visual studio 2015\Projects\OOP_demo\OOP_demo\bin\Debug\OOP_demo.exe.config
+c:\users\user3\documents\visual studio 2015\Projects\OOP_demo\OOP_demo\bin\Debug\OOP_demo.exe
+c:\users\user3\documents\visual studio 2015\Projects\OOP_demo\OOP_demo\bin\Debug\OOP_demo.pdb
+c:\users\user3\documents\visual studio 2015\Projects\OOP_demo\OOP_demo\obj\Debug\OOP_demo.csprojResolveAssemblyReference.cache
+c:\users\user3\documents\visual studio 2015\Projects\OOP_demo\OOP_demo\obj\Debug\OOP_demo.exe
+c:\users\user3\documents\visual studio 2015\Projects\OOP_demo\OOP_demo\obj\Debug\OOP_demo.pdb
+C:\Users\User3\Dropbox\docs\SevGU\ООП\OOP_2017\2 семестр\OOP_demo\OOP_demo\bin\Debug\OOP_demo.exe.config
+C:\Users\User3\Dropbox\docs\SevGU\ООП\OOP_2017\2 семестр\OOP_demo\OOP_demo\obj\Debug\OOP_demo.exe
+C:\Users\User3\Dropbox\docs\SevGU\ООП\OOP_2017\2 семестр\OOP_demo\OOP_demo\obj\Debug\OOP_demo.pdb
+C:\Users\User3\Dropbox\docs\SevGU\ООП\OOP_2017\2 семестр\OOP_demo\OOP_demo\bin\Debug\OOP_demo.exe
+C:\Users\User3\Dropbox\docs\SevGU\ООП\OOP_2017\2 семестр\OOP_demo\OOP_demo\bin\Debug\OOP_demo.pdb
+C:\Users\User3\Dropbox\docs\SevGU\ООП\OOP_2017\2 семестр\OOP_demo\OOP_demo\obj\Debug\OOP_demo.csprojResolveAssemblyReference.cache
